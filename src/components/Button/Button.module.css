@@ -1,0 +1,36 @@
+.button {
+  height: 80px;
+  border: none;
+  border-radius: 35px;
+  font-size: 32px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.1s;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  
+}
+
+.button:active {
+  transform: scale(0.95);
+}
+
+.number {
+  background-color: #505050;
+  color: white;
+}
+
+.operator {
+  background-color: #ff9500;
+  color: white;
+}
+
+.function {
+  background-color: #d4d4d2;
+  color: black;
+}
+
+.wide {
+  grid-column: span 2;
+  text-align: left;
+  padding-left: 32px;
+}

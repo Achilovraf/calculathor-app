@@ -1,0 +1,12 @@
+/* src/components/Calculator/Calculator.module.css */
+.calculator {
+    background-color: #1c1c1c;
+    width: 480px;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+
+
+}
